@@ -1,0 +1,17 @@
+.error {
+    color:#db2269;
+    font-size: 0.8em;
+    display: relative;
+  }
+  .show{
+      display: block;
+  }
+  .hide{
+      display: none;
+  }
+ 
+  .loginBtn {
+      background-color: #4285f4 !important;
+      color: white;
+  
+  }
